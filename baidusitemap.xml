@@ -1,6 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
+    <loc>http://blog.cshf.xyz/2021/05/16/SQL%E6%B3%A8%E5%85%A5%E6%80%BB%E7%BB%93/</loc>
+    <lastmod>2021-05-28</lastmod>
+  </url>
+  <url>
+    <loc>http://blog.cshf.xyz/2021/05/04/PE%E6%96%87%E4%BB%B6/</loc>
+    <lastmod>2021-05-28</lastmod>
+  </url>
+  <url>
     <loc>http://blog.cshf.xyz/2021/04/23/%E5%9F%BA%E4%BA%8E-Kivy-Kivymd-%E5%BC%80%E5%8F%91%E7%9A%84%E6%88%90%E8%AF%AD%E5%AD%A6%E4%B9%A0APP/</loc>
     <lastmod>2021-05-27</lastmod>
   </url>
@@ -10,10 +18,6 @@
   </url>
   <url>
     <loc>http://blog.cshf.xyz/2021/02/03/HTTP%E6%9B%B4%E6%94%B9%E5%AE%A2%E6%88%B7%E7%AB%AFIP%E7%9A%84%E6%96%B9%E5%BC%8F/</loc>
-    <lastmod>2021-05-27</lastmod>
-  </url>
-  <url>
-    <loc>http://blog.cshf.xyz/2021/05/04/PE%E6%96%87%E4%BB%B6/</loc>
     <lastmod>2021-05-27</lastmod>
   </url>
   <url>
