@@ -2,6 +2,13 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>http://blog.cshf.xyz/2021/08/09/COP-7/</loc>
+    
+    <lastmod>2021-08-10</lastmod>
+    
+  </url>
+  
+  <url>
     <loc>http://blog.cshf.xyz/2021/08/07/COP-6/</loc>
     
     <lastmod>2021-08-08</lastmod>
@@ -144,7 +151,7 @@
 
   <url>
     <loc>http://blog.cshf.xyz/</loc>
-    <lastmod>2021-08-08</lastmod>
+    <lastmod>2021-08-10</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
   </url>
@@ -152,105 +159,105 @@
   
   <url>
     <loc>http://blog.cshf.xyz/tags/WEB/</loc>
-    <lastmod>2021-08-08</lastmod>
+    <lastmod>2021-08-10</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
   
   <url>
     <loc>http://blog.cshf.xyz/tags/Windows/</loc>
-    <lastmod>2021-08-08</lastmod>
+    <lastmod>2021-08-10</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
   
   <url>
     <loc>http://blog.cshf.xyz/tags/PE/</loc>
-    <lastmod>2021-08-08</lastmod>
+    <lastmod>2021-08-10</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
   
   <url>
     <loc>http://blog.cshf.xyz/tags/Linux/</loc>
-    <lastmod>2021-08-08</lastmod>
+    <lastmod>2021-08-10</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
   
   <url>
     <loc>http://blog.cshf.xyz/tags/LKM/</loc>
-    <lastmod>2021-08-08</lastmod>
+    <lastmod>2021-08-10</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
   
   <url>
     <loc>http://blog.cshf.xyz/tags/Python/</loc>
-    <lastmod>2021-08-08</lastmod>
+    <lastmod>2021-08-10</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
   
   <url>
     <loc>http://blog.cshf.xyz/tags/C/</loc>
-    <lastmod>2021-08-08</lastmod>
+    <lastmod>2021-08-10</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
   
   <url>
     <loc>http://blog.cshf.xyz/tags/Kivy/</loc>
-    <lastmod>2021-08-08</lastmod>
+    <lastmod>2021-08-10</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
   
   <url>
     <loc>http://blog.cshf.xyz/tags/App/</loc>
-    <lastmod>2021-08-08</lastmod>
+    <lastmod>2021-08-10</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
   
   <url>
     <loc>http://blog.cshf.xyz/tags/SQL/</loc>
-    <lastmod>2021-08-08</lastmod>
+    <lastmod>2021-08-10</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
   
   <url>
     <loc>http://blog.cshf.xyz/tags/ClientIP/</loc>
-    <lastmod>2021-08-08</lastmod>
+    <lastmod>2021-08-10</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
   
   <url>
     <loc>http://blog.cshf.xyz/tags/InformationLeakage/</loc>
-    <lastmod>2021-08-08</lastmod>
+    <lastmod>2021-08-10</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
   
   <url>
     <loc>http://blog.cshf.xyz/tags/DataStructure/</loc>
-    <lastmod>2021-08-08</lastmod>
+    <lastmod>2021-08-10</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
   
   <url>
     <loc>http://blog.cshf.xyz/tags/Computer-Organization-Principles/</loc>
-    <lastmod>2021-08-08</lastmod>
+    <lastmod>2021-08-10</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
   
   <url>
     <loc>http://blog.cshf.xyz/tags/NetWork/</loc>
-    <lastmod>2021-08-08</lastmod>
+    <lastmod>2021-08-10</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
@@ -259,70 +266,70 @@
   
   <url>
     <loc>http://blog.cshf.xyz/categories/Firewall/</loc>
-    <lastmod>2021-08-08</lastmod>
+    <lastmod>2021-08-10</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
   
   <url>
     <loc>http://blog.cshf.xyz/categories/Application/</loc>
-    <lastmod>2021-08-08</lastmod>
+    <lastmod>2021-08-10</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
   
   <url>
     <loc>http://blog.cshf.xyz/categories/Note/</loc>
-    <lastmod>2021-08-08</lastmod>
+    <lastmod>2021-08-10</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
   
   <url>
     <loc>http://blog.cshf.xyz/categories/Note/PE/</loc>
-    <lastmod>2021-08-08</lastmod>
+    <lastmod>2021-08-10</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
   
   <url>
     <loc>http://blog.cshf.xyz/categories/Note/WEB/</loc>
-    <lastmod>2021-08-08</lastmod>
+    <lastmod>2021-08-10</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
   
   <url>
     <loc>http://blog.cshf.xyz/categories/Application/Kivy/</loc>
-    <lastmod>2021-08-08</lastmod>
+    <lastmod>2021-08-10</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
   
   <url>
     <loc>http://blog.cshf.xyz/categories/Note/SQL/</loc>
-    <lastmod>2021-08-08</lastmod>
+    <lastmod>2021-08-10</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
   
   <url>
     <loc>http://blog.cshf.xyz/categories/Note/DataStructure/</loc>
-    <lastmod>2021-08-08</lastmod>
+    <lastmod>2021-08-10</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
   
   <url>
     <loc>http://blog.cshf.xyz/categories/Note/Computer-Organization-Principles/</loc>
-    <lastmod>2021-08-08</lastmod>
+    <lastmod>2021-08-10</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
   
   <url>
     <loc>http://blog.cshf.xyz/categories/Note/NetWork/</loc>
-    <lastmod>2021-08-08</lastmod>
+    <lastmod>2021-08-10</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
